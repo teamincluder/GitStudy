@@ -1,32 +1,32 @@
-‰Û‘è‡@includer‚ÌGitStudyƒŠƒ|ƒWƒgƒŠ‚ð•¡»‚·‚éB
+èª²é¡Œâ‘ includerã®GitStudyãƒªãƒã‚¸ãƒˆãƒªã‚’è¤‡è£½ã™ã‚‹ã€‚
 
-GitBashŠJ‚¢‚ÄAì‹ÆƒfƒBƒŒƒNƒgƒŠ‚Ü‚ÅˆÚ“®‚·‚éB
+GitBashé–‹ã„ã¦ã€ä½œæ¥­ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã¾ã§ç§»å‹•ã™ã‚‹ã€‚
 
 Git clone https://github.com/teamincluder/GitStudy.git
 
-https://github.com/teamincluder/GitStudy‚Ì“à—e‚ð•¡»iƒNƒ[ƒ“j‚·‚éƒRƒ}ƒ“ƒhB
+https://github.com/teamincluder/GitStudyã®å†…å®¹ã‚’è¤‡è£½ï¼ˆã‚¯ãƒ­ãƒ¼ãƒ³ï¼‰ã™ã‚‹ã‚³ãƒžãƒ³ãƒ‰ã€‚
 
 
-‡Aƒtƒ@ƒCƒ‹‚ðƒ`[ƒ€ƒŠƒ|ƒWƒgƒŠ‚É‘—M‚·‚éB
+èª²é¡Œâ‘¡ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ãƒãƒ¼ãƒ ãƒªãƒã‚¸ãƒˆãƒªã«é€ä¿¡ã™ã‚‹ã€‚
 
-ƒeƒLƒXƒgƒtƒ@ƒCƒ‹‚ðì¬‚·‚éBƒtƒ@ƒCƒ‹–¼‚Í"Ž©•ª‚Ì–¼‘O.txt"i—áFfumiya.txtj‚Æ‚·‚éB
+ãƒ†ã‚­ã‚¹ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä½œæˆã™ã‚‹ã€‚ãƒ•ã‚¡ã‚¤ãƒ«åã¯"è‡ªåˆ†ã®åå‰.txt"ï¼ˆä¾‹ï¼šfumiya.txtï¼‰ã¨ã™ã‚‹ã€‚
 
-ƒtƒ@ƒCƒ‹‚ðƒXƒe[ƒWƒ“ƒO‚É‚ ‚°‚é
-—á:git add ƒtƒ@ƒCƒ‹–¼
+ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ã‚¹ãƒ†ãƒ¼ã‚¸ãƒ³ã‚°ã«ã‚ã’ã‚‹
+ä¾‹:git add ãƒ•ã‚¡ã‚¤ãƒ«å
 
---all‚ÅƒfƒBƒŒƒNƒgƒŠ“à‚ð‘S•”add‚·‚éB
-—áFgit add --all
-
-
-ƒtƒ@ƒCƒ‹‚ðƒRƒ~ƒbƒg‚·‚é
-
-—á:git commit -a -m "‚ß‚Á‚¹[‚¶"
--a‚ð•t‚¯‚é‚Æ•ÏXƒtƒ@ƒCƒ‹‘S‚ÄƒRƒ~ƒbƒgo—ˆ‚é
--m ""‚ð•t‚¯‚é‚ÆƒRƒ~ƒbƒgƒƒbƒZ[ƒW‚ð’¼Ú“ü—Ío—ˆ‚é
+--allã§ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªå†…ã‚’å…¨éƒ¨addã™ã‚‹ã€‚
+ä¾‹ï¼šgit add --all
 
 
-ƒtƒ@ƒCƒ‹‚ðƒŠƒ‚[ƒg‚É‚ ‚°‚é
-—áFgit push origin master
-origin‚ÍƒŠƒ‚[ƒg‚ÌÝ’è
-master‚ÍBranch–¼
+ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ã‚³ãƒŸãƒƒãƒˆã™ã‚‹
+
+ä¾‹:git commit -a -m "ã‚ã£ã›ãƒ¼ã˜"
+-aã‚’ä»˜ã‘ã‚‹ã¨å¤‰æ›´ãƒ•ã‚¡ã‚¤ãƒ«å…¨ã¦ã‚³ãƒŸãƒƒãƒˆå‡ºæ¥ã‚‹
+-m ""ã‚’ä»˜ã‘ã‚‹ã¨ã‚³ãƒŸãƒƒãƒˆãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã‚’ç›´æŽ¥å…¥åŠ›å‡ºæ¥ã‚‹
+
+
+ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ãƒªãƒ¢ãƒ¼ãƒˆã«ã‚ã’ã‚‹
+ä¾‹ï¼šgit push origin master
+originã¯ãƒªãƒ¢ãƒ¼ãƒˆã®è¨­å®š
+masterã¯Branchå
 
